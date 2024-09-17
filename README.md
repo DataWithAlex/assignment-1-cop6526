@@ -7,8 +7,10 @@ Report can be accessed at `Homework-1-Alex-Sciuto-COP6526.pdf` in the above file
 ```
 assignment-1-cop6526/
 ├── myenv/
+├── Homework-1-Alex-Sciuto-COP6526.pdf
 ├── assignment-1.ipynb
 ├── maxtrix-multiplication.py
+├── requirements.txt
 └── README.md
 ```
 
