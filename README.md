@@ -10,6 +10,12 @@ assignment-1-cop6526/
 └── README.md
 ```
 
+I included the python libraries used to run this code in `assignment-1.ipynb`. You can install those specific packages using the following commands:
+
+```bash
+pip install -r requirements.txt
+```
+
 ## How to Run
 
 1. **Clone the Repository:**
@@ -23,13 +29,13 @@ assignment-1-cop6526/
 
 2.	**Run the Script with MPI:**
 
-To execute the matrix-vector multiplication script across multiple processes, use the mpiexec command. For example, to run with 4 processes:
+To execute the matrix-vector multiplication script across multiple processes, use the mpiexec command. For example, to run with `2` processes:
 
 ```bash
 mpiexec -n 2 python matrix-multiplication.py
 ```
 
-Replace 4 with the desired number of processes.
+Replace `2` with the desired number of processes.
 
 2.	**Run the Script with MPI in `assignment-1.ipynb:**
 
