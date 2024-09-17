@@ -3,7 +3,7 @@
 This repository provides a Python implementation of parallel matrix-vector multiplication using MPI (Message Passing Interface). The code leverages the `mpi4py` library to distribute computation across multiple processes, enhancing performance and efficiency.
 
 ```
-PARALLEL-COMPUTING/
+assignment-1-cop6526/
 ├── myenv/
 ├── assignment-1.ipynb
 ├── maxtrix-multiplication.py
@@ -17,8 +17,8 @@ PARALLEL-COMPUTING/
    Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/parallel-matrix-multiplication.git
-   cd parallel-matrix-multiplication
+   git clone https://github.com/DataWithAlex/assignment-1-cop6526.git
+   cd assignment-1-cop6526
    ```
 
 2.	**Run the Script with MPI:**
