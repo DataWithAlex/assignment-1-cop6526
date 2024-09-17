@@ -1,4 +1,4 @@
-# Parallel Matrix-Vector Multiplication
+# Homework-1 COP(6526)
 
 This repository provides a Python implementation of parallel matrix-vector multiplication using MPI (Message Passing Interface). The code leverages the `mpi4py` library to distribute computation across multiple processes, enhancing performance and efficiency.
 
